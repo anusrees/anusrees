@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anusrees
-- 👀 I’m interested in developing cool products using Computer Vision and Machine Learning. I am also interested in hardware acceleration.
-- 🌱 I’m currently learning different optimization techniques on hardware accelerators and latest technologies in Deep learning.
-- 💞️ I’m looking to collaborate on any project related to app development for android, hardware acceleration or any cool feature using CV/ML.
-- 📫 How to reach me. Please reach me out on my email id asarkar1993@gmail.com. Open to explore any new opportunity related to CV/ML, hardware optimizations or even a cool new app.
+- 👀 I’m interested in developing cool products using Computer Vision and Machine Learning. I am also interested in potimizing these algorithms using hardware acceleration.
+- 🌱 I’m currently learning latest technologies in Deep learning and optimization techniques on different hardware accelerators.
+- 💞️ I’m looking to collaborate on any project related to developing cool feature using CV/ML, hardware acceleration or even Android/Web applications.
+- 📫 How to reach me. Please reach me out on my email id asarkar1993@gmail.com or connect with me via my linkedin account here: https://www.linkedin.com/in/anusree-sarkar-4477618b/.
 
 <!---
 anusrees/anusrees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
