@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anusrees
 - 👀 I’m interested in developing cool products using Computer Vision and Machine Learning. I am also interested in optimizing these algorithms using hardware acceleration.
-- 🌱 I’m currently learning latest technologies in Deep learning and optimization techniques on different hardware accelerators.
+- 🌱 I’m currently learning latest technologies in Deep learning through courses and by reading SOTA research papers in this field.
 - 💞️ I’m looking to collaborate on any project related to developing cool feature using CV/ML, hardware acceleration or even Android/Web applications.
 - 📫 How to reach me. Please reach me out on my email id asarkar1993@gmail.com or connect with me via my linkedin account here: https://www.linkedin.com/in/anusree-sarkar-4477618b/.
 
